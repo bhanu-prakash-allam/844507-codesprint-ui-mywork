@@ -1,0 +1,10 @@
+My associate id:
+844507
+Other team members:
+844574,844556,844554,844583
+Team lead:
+844507
+My role in team:
+1.to develope view table page by using javascript,
+2.store the data using local storage,
+3.retrive the data by using local storage and show it in tabular form
